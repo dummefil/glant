@@ -1,0 +1,18 @@
+{
+  "config": {
+    "appenders": {
+      "Glant": {
+        "type": "console"
+      }
+    },
+    "categories": {
+      "default": {
+        "appenders": [
+          "Glant"
+        ],
+        "level": "info"
+      }
+    }
+  },
+  "name": "Glant"
+}
