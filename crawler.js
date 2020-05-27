@@ -125,7 +125,7 @@ async function run() {
     running = false;
   }
 }
-run();
+
 module.exports = {
   run,
 }
