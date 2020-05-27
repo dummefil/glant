@@ -5,6 +5,7 @@ const log4js = require('log4js');
 const koa = require('koa');
 const Pug = require('koa-pug');
 const morgan = require('koa-morgan');
+const koaStatic = require('koa-static');
 const koaRouter = require('@koa/router');
 
 const packageJSON = require('./package.json');
@@ -44,7 +45,7 @@ function getRandomDict() {
 
 function getRandomPlant() {
   const dict = getRandomDict();
-  const array = dict.toString().split('\n');
+  const array = dict.toString().split('\n').filter((value) => (value));
   const max = array.length - 1;
   const index = randomInteger(0, max);
   const plant = array[index];
@@ -86,6 +87,7 @@ router.post('/dict/regenerate', async ctx => {
   ctx.status = 200;
 })
 
+app.use(koaStatic('static', {}));
 app.use(morgan('combined'));
 app.use(router.routes())
 app.use(router.allowedMethods());

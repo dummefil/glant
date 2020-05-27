@@ -1,8 +1,20 @@
+head
+    link(rel="shortcut icon", href='favicon.png')
+    link(rel="stylesheet" href="styles.css")
 body
-    a(href= plantUrl) Вики
-    if plantImg
-        div
-            img(src= plantImg)
-    else
-        p 'No image'
-    p #{plantTitle}
+    .row
+        img.logo(src='logo.png')
+    .row
+        .plant-container
+            div.image-container
+                if plantImg
+                    img.plant-image(src= plantImg)
+                else
+                    img.plant-image(src= 'no-image.png')
+            .plant-details
+                a.plant-link(href= plantUrl) Вики
+                .plant-title #{plantTitle}
+        div.github-link
+            div  Source code:
+            a(href= 'https://github.com/dummefil/glant') https://github.com/dummefil/glant
+
