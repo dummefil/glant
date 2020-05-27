@@ -93,10 +93,9 @@ async function getImage (page, url) {
   return page.evaluate(() => {
     const image = document.querySelector('.infobox-image img');
     console.log(image);
-    if (!image) {
-      return 'No image';
+    if (image) {
+      return image.src;
     }
-    return image.src;
   });
 }
 

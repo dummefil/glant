@@ -35,7 +35,7 @@ function getRandomDict() {
     throw new Error('Dictionary is empty');
   }
 
-  const dictLength = dict.length;
+  const dictLength = dict.length - 1;
   const dictIndex = randomInteger(0, dictLength);
   const dictName = dict[dictIndex];
   const fileDir = path.join('./dict', dictName);
@@ -45,7 +45,7 @@ function getRandomDict() {
 function getRandomPlant() {
   const dict = getRandomDict();
   const array = dict.toString().split('\n');
-  const max = array.length;
+  const max = array.length - 1;
   const index = randomInteger(0, max);
   const plant = array[index];
   const [plantTitle, plantUrl, plantImg] = plant.split(';;');

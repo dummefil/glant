@@ -1,4 +1,8 @@
 body
-    p #{plantUrl}
-    img(src= plantImg)
+    a(href= plantUrl) Вики
+    if plantImg
+        div
+            img(src= plantImg)
+    else
+        p 'No image'
     p #{plantTitle}
