@@ -54,7 +54,10 @@ async function changePage(url) {
 }
 
 async function getNextPageUrl ($) {
-  return baseUrl + $('#mw-pages a').last().attr('href');
+  const node = $('#mw-pages a').last();
+  if (node.text() === 'Следующая страница') {
+    return baseUrl + node.attr('href');
+  }
 }
 
 async function fetchHTML(url) {
@@ -75,7 +78,7 @@ async function parsePage(url) {
   logger.info('Done');
 }
 
-async function getImage (url) {
+async function getImage(url) {
   const $ = await changePage(url);
   return $('.infobox-image img').attr('src');
 }
@@ -122,7 +125,7 @@ async function run() {
     running = false;
   }
 }
-
+run();
 module.exports = {
   run,
 }
