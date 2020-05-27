@@ -1,4 +1,6 @@
 const fs = require('fs');
+const path = require('path');
+const querystring = require('querystring');
 
 const puppeteer = require('puppeteer');
 const log4js = require('log4js');
@@ -7,13 +9,47 @@ const log4jsConfig = require('./log4js.config.json');
 log4js.configure(log4jsConfig.config);
 const logger = log4js.getLogger(log4jsConfig.name);
 
-const writer = fs.createWriteStream('./dict.txt');
+function createFolder (folder) {
+  if (!fs.existsSync(folder)){
+    fs.mkdirSync(folder);
+  }
+}
+
+function Writer () {
+  const folder = 'dict';
+  createFolder(folder);
+  this.newDict = function newDict(letter) {
+    return fs.createWriteStream(`./${folder}/${letter}.txt`);
+  }
+
+  this.changeDict = function changeDict(letter) {
+    if (this.currentDict) {
+      this.currentDict.close();
+    }
+    this.currentDict = this.newDict(letter);
+    this.currentDictLetter = letter;
+  }
+
+  this.push = function push(string) {
+    const chunk = string + '\n';
+    const letter = string[0];
+    if (this.currentDictLetter !== letter) {
+      this.changeDict(letter);
+    }
+    this.currentDict.write(chunk, 'utf8');
+  }
+
+  this.close = function close() {
+    this.currentDict.close();
+  }
+}
+
+const writer = new Writer();
 
 async function puppeteerInstance(url) {
-  const browser = await puppeteer.launch({headless: false,});
+  const browser = await puppeteer.launch();
   const page = await browser.newPage();
-  logger.info('Opening page', url);
-  await page.goto(url, {waitUntil: 'networkidle2'});
+  await changePage(page, url);
   return {page, browser};
 }
 
@@ -25,29 +61,64 @@ async function wait(ms) {
   });
 }
 
-async function parsePage(page, browser) {
-  await parseLinks(page);
-  const nextUrl = await page.evaluate(() => {
+async function changePage(page, url) {
+  logger.info('Page is', querystring.unescape(url));
+  await page.goto(url, {waitUntil: 'networkidle0'});
+}
+
+async function getNextPageUrl (page) {
+  return page.evaluate(() => {
     const node = document.querySelector('#mw-pages').lastElementChild;
     if (node.textContent === 'Следующая страница') {
       return node.href;
     }
-  });
-  console.log(nextUrl);
-  if (nextUrl) {
-    await page.goto(nextUrl, {waitUntil: 'networkidle2'});
+  })
+}
+
+async function parsePage(page, browser) {
+  const nextPageUrl = await getNextPageUrl(page);
+  await parseLinks(page);
+
+  if (nextPageUrl) {
+    await changePage(page, nextPageUrl);
     return parsePage(page, browser);
   }
-  writer.end();
+  writer.close();
   browser.close();
   logger.info('Done');
 }
 
-async function parseLinks(page) {
-  const data = await page.evaluate(() => Array.from(document.querySelectorAll('.mw-category li'), element => element.textContent));
-  data.forEach((chunk) => {
-    writer.write(chunk + '\n', 'utf8');
+async function getImage (page, url) {
+  await changePage(page, url);
+  return page.evaluate(() => {
+    const image = document.querySelector('.infobox-image img');
+    console.log(image);
+    if (!image) {
+      return 'No image';
+    }
+    return image.src;
   });
+}
+
+async function parseLinks(page) {
+  const links = await page.evaluate(() => {
+    function mapFn (element) {
+       return {
+         text: element.textContent,
+         url: element.href,
+       }
+    }
+    const listElms = document.querySelectorAll('.mw-category li a');
+    return Array.from(listElms, mapFn);
+  });
+
+  //why for in it's not working ?
+  for (let index in links) {
+    const link = links[index];
+    const { text, url } = link;
+    const image = await getImage(page, url);
+    writer.push([text, url, image].join(';;'));
+  }
 }
 
 async function startCrawler() {
@@ -58,15 +129,23 @@ async function startCrawler() {
   await parsePage(page, browser);
 }
 
-
-async function start() {
+let running = false;
+async function run() {
   try {
-    await startCrawler();
+    if (!running) {
+      running = true;
+      logger.info('Crawler started');
+      await startCrawler();
+      running = false;
+    } else {
+      logger.info('Crawler already running')
+    }
   } catch (e) {
     logger.error(e);
+    running = false;
   }
 }
 
-const packageJSON = require('./package.json');
-logger.info(`Starting ${packageJSON.name}`, 'v.' + packageJSON.version);
-start();
+module.exports = {
+  run,
+}
