@@ -50,6 +50,13 @@ function getRandomPlant() {
   const index = randomInteger(0, max);
   const plant = array[index];
   const [plantTitle, plantUrl, plantImg] = plant.split(';;');
+
+  //todo parse this links in crawler
+  if (plantImg.indexOf('No_image_available') > -1) {
+    return {
+      plantTitle, plantImg: '', plantUrl,
+    };
+  }
   return {
     plantTitle, plantImg, plantUrl
   };
