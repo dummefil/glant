@@ -1,0 +1,9 @@
+.plant-container
+    div.image-container
+        if plantImg
+            img.plant-image(src= plantImg)
+        else
+            img.plant-image(src= 'no-image.png')
+    .plant-details
+        a.plant-link(href= plantUrl) Вики
+        .plant-title #{plantTitle}

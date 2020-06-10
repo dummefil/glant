@@ -1,20 +1,20 @@
 head
     link(rel="shortcut icon", href='favicon.png')
     link(rel="stylesheet" href="styles.css")
+    title Glant
+    script(src="script.js")
 body
     .row
         img.logo(src='logo.png')
+        .button-wrapper
+            img.button-image(src= 'button-image.png')
+            button.button-regenerate(onclick='reload()') Generate
     .row
-        .plant-container
-            div.image-container
-                if plantImg
-                    img.plant-image(src= plantImg)
-                else
-                    img.plant-image(src= 'no-image.png')
-            .plant-details
-                a.plant-link(href= plantUrl) Вики
-                .plant-title #{plantTitle}
+        include plant-container
+    div.links
+        div.special
+            div Special for:
+            a(href= 'https://vk.com/mewrilim') https://vk.com/mewrilim
         div.github-link
             div  Source code:
             a(href= 'https://github.com/dummefil/glant') https://github.com/dummefil/glant
-

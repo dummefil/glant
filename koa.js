@@ -76,22 +76,23 @@ const pug = new Pug({
 
 const router = new koaRouter();
 
-router.get('/', (ctx) => {
-  ctx.redirect('/generate');
+router.get('/', async (ctx) => {
+  const data = getRandomPlant();
+  await ctx.render('index', data);
 })
 
 router.get('/generate', async ctx => {
   const data = getRandomPlant();
-  await ctx.render('index', data);
-});
-
-router.post('/generate', async ctx => {
-  ctx.body = getRandomPlant();
+  ctx.body = await pug.render('plant-container', data);
 })
 
 router.post('/dict/regenerate', async ctx => {
   regenerateDict();
   ctx.status = 200;
+})
+
+router.get('*', (ctx) => {
+  ctx.redirect('/');
 })
 
 app.use(koaStatic('static', {}));
