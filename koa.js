@@ -105,23 +105,3 @@ app.listen(port, () => {
   logger.info(`Started ${require('./package.json').name} at`, port);
 });
 
-greenlock
-  .init({
-    packageRoot: __dirname,
-    configDir: "./greenlock.d",
-
-    // contact for security and critical bug notices
-    maintainerEmail: "dimatonkih@gmail.com",
-
-    // whether or not to run at cloudscale
-    cluster: false,
-    agreeTos: true,
-  })
-  // Serves on 80 and 443
-  // Get's SSL certificates magically!
-  .serve((req, res) => {
-    console.log(req);
-    console.log(res);
-    res.send('ok');
-  });
-
