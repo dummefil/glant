@@ -7,7 +7,6 @@ const Pug = require('koa-pug');
 const morgan = require('koa-morgan');
 const koaStatic = require('koa-static');
 const koaRouter = require('@koa/router');
-const greenlock = require('greenlock-express')
 
 const packageJSON = require('./package.json');
 const log4jsConfig = require('./log4js.config.json');
