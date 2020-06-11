@@ -1,0 +1,11 @@
+Олигоклаз;;https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D0%B8%D0%B3%D0%BE%D0%BA%D0%BB%D0%B0%D0%B7;;//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Feldspar_-_Oligoclase_Sunstone_Sodium_calcium_aluminum_silicate_India_2485.jpg/274px-Feldspar_-_Oligoclase_Sunstone_Sodium_calcium_aluminum_silicate_India_2485.jpg
+Оливин;;https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D0%B8%D0%B2%D0%B8%D0%BD;;//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Forsterite-Olivine-tmu14d.jpg/274px-Forsterite-Olivine-tmu14d.jpg
+Оффретит;;https://ru.wikipedia.org/wiki/%D0%9E%D1%84%D1%84%D1%80%D0%B5%D1%82%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Offretite-627123.jpg/274px-Offretite-627123.jpg
+Оникс;;https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B8%D0%BA%D1%81;;//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Onyx.jpg/274px-Onyx.jpg
+Обручевит;;https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D1%83%D1%87%D0%B5%D0%B2%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Obruchevit-oxyyttropyrochlore.jpg/274px-Obruchevit-oxyyttropyrochlore.jpg
+Ортит;;https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D1%82%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Allanite_w-rock_Basic_calcium_iron_Rare_Earth_aluminum_silicate_near_29_Palms_San_Bernardino_County_California_2204.jpg/274px-Allanite_w-rock_Basic_calcium_iron_Rare_Earth_aluminum_silicate_near_29_Palms_San_Bernardino_County_California_2204.jpg
+Опал;;https://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B0%D0%BB;;//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Opal_2_%288030289337%29.jpg/274px-Opal_2_%288030289337%29.jpg
+Отенит;;https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%B5%D0%BD%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Autunite-69257.jpg/274px-Autunite-69257.jpg
+Окенит;;https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D0%B5%D0%BD%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Okenite-166736.jpg/274px-Okenite-166736.jpg
+Ортоклаз;;https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D1%82%D0%BE%D0%BA%D0%BB%D0%B0%D0%B7;;//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mineral_Ortosa_GDFL052.jpg/274px-Mineral_Ortosa_GDFL052.jpg
+Оливенит;;https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D0%B8%D0%B2%D0%B5%D0%BD%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Olivenite-89337.jpg/274px-Olivenite-89337.jpg

@@ -1,0 +1,57 @@
+Сапонит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BF%D0%BE%D0%BD%D0%B8%D1%82;;
+Сепиолит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BF%D0%B8%D0%BE%D0%BB%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mineraly.sk_-_sepiolit.jpg/274px-Mineraly.sk_-_sepiolit.jpg
+Селитра;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%B8%D1%82%D1%80%D0%B0;;
+Селенит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Selenite_2.png/274px-Selenite_2.png
+Самородное золото;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE;;//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Naturkundemuseum_Berlin_-_Gediegen_Gold_in_Quarz%2C_Eagles_Nest_Mine%2C_Placer_County%2C_Kalifornien%2C_USA.jpg/274px-Naturkundemuseum_Berlin_-_Gediegen_Gold_in_Quarz%2C_Eagles_Nest_Mine%2C_Placer_County%2C_Kalifornien%2C_USA.jpg
+Силлиманит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BB%D0%BB%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/0/08/SillimaniteUSGS.jpg/274px-SillimaniteUSGS.jpg
+Самородное железо;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5_%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BE;;//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eisen_gediegen_-_B%C3%BChl_bei_Kassel.jpg/274px-Eisen_gediegen_-_B%C3%BChl_bei_Kassel.jpg
+Сильвин;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BB%D1%8C%D0%B2%D0%B8%D0%BD;;//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mineral_Silvina_GDFL105.jpg/274px-Mineral_Silvina_GDFL105.jpg
+Самородная ртуть;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D1%80%D1%82%D1%83%D1%82%D1%8C;;//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Mercure_natif_3%28Espagne%29.jpg/274px-Mercure_natif_3%28Espagne%29.jpg
+Сферокобальтит;;https://ru.wikipedia.org/wiki/%D0%A1%D1%84%D0%B5%D1%80%D0%BE%D0%BA%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D1%82%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sphaerocobaltite.jpg/274px-Sphaerocobaltite.jpg
+Ставролит;;https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%B2%D1%80%D0%BE%D0%BB%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Staurolite.jpg/274px-Staurolite.jpg
+Сапфирин (халцедон);;https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BF%D1%84%D0%B8%D1%80%D0%B8%D0%BD_(%D1%85%D0%B0%D0%BB%D1%86%D0%B5%D0%B4%D0%BE%D0%BD);;//upload.wikimedia.org/wikipedia/ru/thumb/9/92/Sapfirin-gelwak.jpg/274px-Sapfirin-gelwak.jpg
+Сфалерит;;https://ru.wikipedia.org/wiki/%D0%A1%D1%84%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sphalerite4.jpg/274px-Sphalerite4.jpg
+Стильбит;;https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B8%D0%BB%D1%8C%D0%B1%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Stilbite-Ca-pb34a.jpg/274px-Stilbite-Ca-pb34a.jpg
+Сурик (минерал);;https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D1%80%D0%B8%D0%BA_(%D0%BC%D0%B8%D0%BD%D0%B5%D1%80%D0%B0%D0%BB);;//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Minium-Lead-168740.jpg/274px-Minium-Lead-168740.jpg
+Спессартин;;https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B5%D1%81%D1%81%D0%B0%D1%80%D1%82%D0%B8%D0%BD;;//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Granat_spessartyn_Chiny_2.jpg/274px-Granat_spessartyn_Chiny_2.jpg
+Серандит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B0%D0%BD%D0%B4%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Serandite-d05-45a.jpg/274px-Serandite-d05-45a.jpg
+Серпентин;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%BF%D0%B5%D0%BD%D1%82%D0%B8%D0%BD;;//upload.wikimedia.org/wikipedia/commons/thumb/3/34/SerpentineUSGOV.jpg/274px-SerpentineUSGOV.jpg
+Слюды;;https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D1%8E%D0%B4%D1%8B;;
+Сидерит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B4%D0%B5%D1%80%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/SideriteBresil2.jpg/274px-SideriteBresil2.jpg
+Синхалит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D1%85%D0%B0%D0%BB%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sinhalite-656999.jpg/274px-Sinhalite-656999.jpg
+Сподумен;;https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%BE%D0%B4%D1%83%D0%BC%D0%B5%D0%BD;;//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Spodumene.jpg/274px-Spodumene.jpg
+Соколиный глаз (камень);;https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%B8%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BB%D0%B0%D0%B7_(%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C);;
+Самородная медь;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D1%8C;;//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cuivre_Michigan.jpg/274px-Cuivre_Michigan.jpg
+Стибиконит;;https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B8%D0%B1%D0%B8%D0%BA%D0%BE%D0%BD%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Stibiconite-24369.jpg/274px-Stibiconite-24369.jpg
+Стронцианит;;https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%BE%D0%BD%D1%86%D0%B8%D0%B0%D0%BD%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Strontianite-283290.jpg/274px-Strontianite-283290.jpg
+Стефанит;;https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Stephanite3.jpg/274px-Stephanite3.jpg
+Сульванит;;https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D0%BD%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Sulvanite-199684.jpg/274px-Sulvanite-199684.jpg
+Самородная сурьма;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D1%81%D1%83%D1%80%D1%8C%D0%BC%D0%B0;;//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Antimony_%28Mexico%29_2_%2817150760398%29.jpg/274px-Antimony_%28Mexico%29_2_%2817150760398%29.jpg
+Салинит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D1%82;;
+Скаполиты;;https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D1%8B;;//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Skapolit%2C1_Benono%2C_Madagaskar.jpg/274px-Skapolit%2C1_Benono%2C_Madagaskar.jpg
+Спекулярит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%83%D0%BB%D1%8F%D1%80%D0%B8%D1%82;;
+Содалит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B4%D0%B0%D0%BB%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sodalite_%28Mineral%29.jpg/274px-Sodalite_%28Mineral%29.jpg
+Сугилит;;https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B3%D0%B8%D0%BB%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sugilite-162617.jpg/274px-Sugilite-162617.jpg
+Сардер;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B4%D0%B5%D1%80;;//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Agate_banded_750pix.jpg/274px-Agate_banded_750pix.jpg
+Сатпаевит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%82%D0%BF%D0%B0%D0%B5%D0%B2%D0%B8%D1%82;;
+Самородный висмут;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B8%D1%81%D0%BC%D1%83%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bismuth-169952.jpg/274px-Bismuth-169952.jpg
+Сперрилит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B5%D1%80%D1%80%D0%B8%D0%BB%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Sperrylite_sharpest_2_wiki.jpg/274px-Sperrylite_sharpest_2_wiki.jpg
+Сабугалит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B1%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Makro_Sabugalite.jpg/274px-Makro_Sabugalite.jpg
+Сибирит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D0%B8%D1%82;;
+Сильванит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BB%D1%8C%D0%B2%D0%B0%D0%BD%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sylvanite.jpg/274px-Sylvanite.jpg
+Семсейит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BC%D1%81%D0%B5%D0%B9%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Semseyite.jpg/274px-Semseyite.jpg
+Сванбергит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B0%D0%BD%D0%B1%D0%B5%D1%80%D0%B3%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Svanbergite_w-pyrophyllite_on_andalusite_Basic_strontium_aluminum_phosphate_Donally_Mine_near_Thorne_Minerals_County_Nevada_1879.jpg/274px-Svanbergite_w-pyrophyllite_on_andalusite_Basic_strontium_aluminum_phosphate_Donally_Mine_near_Thorne_Minerals_County_Nevada_1879.jpg
+Сердолик;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B4%D0%BE%D0%BB%D0%B8%D0%BA;;//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Carnelian_-_tumble_polished_stone.jpg/274px-Carnelian_-_tumble_polished_stone.jpg
+Санидин;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%B8%D0%B4%D0%B8%D0%BD;;//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sanidine-243308.jpg/274px-Sanidine-243308.jpg
+Сапфирин;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BF%D1%84%D0%B8%D1%80%D0%B8%D0%BD;;//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Phlogopite-Sapphirine-mrz192b.jpg/274px-Phlogopite-Sapphirine-mrz192b.jpg
+Самородный мышьяк;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BC%D1%8B%D1%88%D1%8C%D1%8F%D0%BA;;//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Native_arsenic.jpg/274px-Native_arsenic.jpg
+Смольяниновит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%BE%D0%BB%D1%8C%D1%8F%D0%BD%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%82;;
+Скородит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Scorodite-scoro-20a.jpg/274px-Scorodite-scoro-20a.jpg
+Скуттерудит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D1%83%D1%82%D1%82%D0%B5%D1%80%D1%83%D0%B4%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Skutt%C3%A9rudite.jpg/274px-Skutt%C3%A9rudite.jpg
+Смитсонит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%B8%D1%82%D1%81%D0%BE%D0%BD%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Smithsonite_HMNH2.jpg/274px-Smithsonite_HMNH2.jpg
+Самородное серебро;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5_%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%BE;;//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Native_silver.JPG/274px-Native_silver.JPG
+Станнин;;https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BD%D0%BD%D0%B8%D0%BD;;//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Stannite_01549.jpg/274px-Stannite_01549.jpg
+Самарскит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Samarskite.jpg/274px-Samarskite.jpg
+Сколецит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%BE%D0%BB%D0%B5%D1%86%D0%B8%D1%82;;//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Scol%C3%A9cite_%28Inde%29_4.JPG/274px-Scol%C3%A9cite_%28Inde%29_4.JPG
+Сапфир;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BF%D1%84%D0%B8%D1%80;;//upload.wikimedia.org/wikipedia/commons/thumb/7/71/1szafir_Madagaskar.jpg/274px-1szafir_Madagaskar.jpg
+Севергинит;;https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%B3%D0%B8%D0%BD%D0%B8%D1%82;;

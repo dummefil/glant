@@ -1,0 +1,17 @@
+Stropharia variicolor;;https://ru.wikipedia.org/wiki/Stropharia_variicolor;;
+Sphaerosporella brunnea;;https://ru.wikipedia.org/wiki/Sphaerosporella_brunnea;;
+Sordariomycetidae;;https://ru.wikipedia.org/wiki/Sordariomycetidae;;//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Unidentified_myxomycete_2005-08-07.jpg/275px-Unidentified_myxomycete_2005-08-07.jpg
+Saccharomyces cerevisiae;;https://ru.wikipedia.org/wiki/Saccharomyces_cerevisiae;;//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/S_cerevisiae_under_DIC_microscopy.jpg/275px-S_cerevisiae_under_DIC_microscopy.jpg
+Sarocladium kiliense;;https://ru.wikipedia.org/wiki/Sarocladium_kiliense;;
+Schizosaccharomyces pombe;;https://ru.wikipedia.org/wiki/Schizosaccharomyces_pombe;;//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fission_yeast.jpg/275px-Fission_yeast.jpg
+Spinellus fusiger;;https://ru.wikipedia.org/wiki/Spinellus_fusiger;;//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Spileczka_czerniej%C4%85ca4.jpg/275px-Spileczka_czerniej%C4%85ca4.jpg
+Syncephalastrum racemosum;;https://ru.wikipedia.org/wiki/Syncephalastrum_racemosum;;//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Syncephalastrum_racemosum_sporangiophores.jpg/275px-Syncephalastrum_racemosum_sporangiophores.jpg
+Stropharia caerulea;;https://ru.wikipedia.org/wiki/Stropharia_caerulea;;//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Stropharia_caerulea_03.JPG/275px-Stropharia_caerulea_03.JPG
+Spongiforma squarepantsii;;https://ru.wikipedia.org/wiki/Spongiforma_squarepantsii;;//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Spongiforma_squarepantsii_151595.jpg/275px-Spongiforma_squarepantsii_151595.jpg
+Scleroderma hypogaeum;;https://ru.wikipedia.org/wiki/Scleroderma_hypogaeum;;//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Scleroderma_hypogaeum_Zeller_143044.jpg/274px-Scleroderma_hypogaeum_Zeller_143044.jpg
+Scleroderma septentrionale;;https://ru.wikipedia.org/wiki/Scleroderma_septentrionale;;
+Syzygospora tumefaciens;;https://ru.wikipedia.org/wiki/Syzygospora_tumefaciens;;//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Syzygospora_tumefaciens.jpg/275px-Syzygospora_tumefaciens.jpg
+Scleroderma michiganense;;https://ru.wikipedia.org/wiki/Scleroderma_michiganense;;
+Strobilomyces foveatus;;https://ru.wikipedia.org/wiki/Strobilomyces_foveatus;;//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Strobilomyces_floccopus_JH.jpg/275px-Strobilomyces_floccopus_JH.jpg
+Sporothrix;;https://ru.wikipedia.org/wiki/Sporothrix;;//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Conidiophores_and_conidia_of_the_fungus_Sporothrix_schenckii_PHIL_4208_lores.jpg/275px-Conidiophores_and_conidia_of_the_fungus_Sporothrix_schenckii_PHIL_4208_lores.jpg
+Schizoporaceae;;https://ru.wikipedia.org/wiki/Schizoporaceae;;//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Schizopora.paradoxa.-.lindsey.jpg/275px-Schizopora.paradoxa.-.lindsey.jpg

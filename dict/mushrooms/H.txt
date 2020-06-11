@@ -1,0 +1,10 @@
+Hyphobasidiofera;;https://ru.wikipedia.org/wiki/Hyphobasidiofera;;
+Hymenoscyphus albidus;;https://ru.wikipedia.org/wiki/Hymenoscyphus_albidus;;
+Horakiella;;https://ru.wikipedia.org/wiki/Horakiella;;
+Hanseniaspora;;https://ru.wikipedia.org/wiki/Hanseniaspora;;
+Hanseniaspora uvarum;;https://ru.wikipedia.org/wiki/Hanseniaspora_uvarum;;//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hanseniaspora_uvarum.jpg/274px-Hanseniaspora_uvarum.jpg
+Heimioporus betula;;https://ru.wikipedia.org/wiki/Heimioporus_betula;;//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Heimioporus_betula_95300.jpg/231px-Heimioporus_betula_95300.jpg
+Humicola fuscoatra;;https://ru.wikipedia.org/wiki/Humicola_fuscoatra;;
+Hypomyces lactifluorum;;https://ru.wikipedia.org/wiki/Hypomyces_lactifluorum;;//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Chanterelle_and_lobster_mushrooms.jpg/275px-Chanterelle_and_lobster_mushrooms.jpg
+Hypocreomycetidae;;https://ru.wikipedia.org/wiki/Hypocreomycetidae;;//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nectria_cinnabarina.jpg/275px-Nectria_cinnabarina.jpg
+Hymenoscyphus fraxineus;;https://ru.wikipedia.org/wiki/Hymenoscyphus_fraxineus;;//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Chalara_ash_dieback_-_symptoms_-_39.jpg/275px-Chalara_ash_dieback_-_symptoms_-_39.jpg

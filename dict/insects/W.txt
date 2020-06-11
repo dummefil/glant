@@ -1,0 +1,14 @@
+Walkerella benjamini;;https://ru.wikipedia.org/wiki/Walkerella_benjamini;;
+Walkerella nigrabdomina;;https://ru.wikipedia.org/wiki/Walkerella_nigrabdomina;;
+Walkerella microcarpae;;https://ru.wikipedia.org/wiki/Walkerella_microcarpae;;
+Walkerella kurandensis;;https://ru.wikipedia.org/wiki/Walkerella_kurandensis;;
+Walkerella curtipedis;;https://ru.wikipedia.org/wiki/Walkerella_curtipedis;;
+Walkerella jacobsoni;;https://ru.wikipedia.org/wiki/Walkerella_jacobsoni;;
+Walkerella temeraria;;https://ru.wikipedia.org/wiki/Walkerella_temeraria;;
+Wasmannia;;https://ru.wikipedia.org/wiki/Wasmannia;;//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wasmannia_auropunctata_casent0005064_profile_1.jpg/275px-Wasmannia_auropunctata_casent0005064_profile_1.jpg
+Watanabella;;https://ru.wikipedia.org/wiki/Watanabella;;
+Westphalomerope maryvonneae;;https://ru.wikipedia.org/wiki/Westphalomerope_maryvonneae;;
+Westcottia amorpha;;https://ru.wikipedia.org/wiki/Westcottia_amorpha;;
+Whitneyomyia beatifica;;https://ru.wikipedia.org/wiki/Whitneyomyia_beatifica;;
+Winklerites fodori;;https://ru.wikipedia.org/wiki/Winklerites_fodori;;
+Wuhua jurassica;;https://ru.wikipedia.org/wiki/Wuhua_jurassica;;

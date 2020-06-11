@@ -1,0 +1,8 @@
+Rasamsonia emersonii;;https://ru.wikipedia.org/wiki/Rasamsonia_emersonii;;
+Rhizopus stolonifer;;https://ru.wikipedia.org/wiki/Rhizopus_stolonifer;;//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Rhizopus_stolonifer4.JPG/275px-Rhizopus_stolonifer4.JPG
+Rubinoboletus balloui;;https://ru.wikipedia.org/wiki/Rubinoboletus_balloui;;//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Tylopilus_balloui_16678.jpg/275px-Tylopilus_balloui_16678.jpg
+Rigidoporus vinctus;;https://ru.wikipedia.org/wiki/Rigidoporus_vinctus;;
+Rigidoporus lineatus;;https://ru.wikipedia.org/wiki/Rigidoporus_lineatus;;
+Rigidoporus microporus;;https://ru.wikipedia.org/wiki/Rigidoporus_microporus;;//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Rigidoporus_microporus_-_Jardim_Bot%C3%A2nico_de_S%C3%A3o_Paulo_-_IMG_0313.jpg/274px-Rigidoporus_microporus_-_Jardim_Bot%C3%A2nico_de_S%C3%A3o_Paulo_-_IMG_0313.jpg
+Russula parvovirescens;;https://ru.wikipedia.org/wiki/Russula_parvovirescens;;//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Russula_parvovirescens_89283.jpg/275px-Russula_parvovirescens_89283.jpg
+Russula mariae;;https://ru.wikipedia.org/wiki/Russula_mariae;;//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Russula_mariae_Peck_432227.jpg/275px-Russula_mariae_Peck_432227.jpg

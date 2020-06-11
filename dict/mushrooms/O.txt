@@ -1,0 +1,6 @@
+Omphalotus olivascens;;https://ru.wikipedia.org/wiki/Omphalotus_olivascens;;//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Omphalotus_olivascens_125218.jpg/275px-Omphalotus_olivascens_125218.jpg
+Omphalotus japonicus;;https://ru.wikipedia.org/wiki/Omphalotus_japonicus;;//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Omphalotus_guepiniformis_Berk_Neda_02.jpg/275px-Omphalotus_guepiniformis_Berk_Neda_02.jpg
+Ophiocordyceps;;https://ru.wikipedia.org/wiki/Ophiocordyceps;;//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/%D0%9A%D0%BE%D1%80%D0%B4%D0%B8%D1%86%D0%B5%D0%BF%D1%81_%D1%81%D0%B5%D1%80%D0%BE-%D0%BF%D0%B5%D0%BF%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_-_Cordyceps_entomorrhiza.jpg/270px-%D0%9A%D0%BE%D1%80%D0%B4%D0%B8%D1%86%D0%B5%D0%BF%D1%81_%D1%81%D0%B5%D1%80%D0%BE-%D0%BF%D0%B5%D0%BF%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_-_Cordyceps_entomorrhiza.jpg
+Ophiocordyceps oecophyllae;;https://ru.wikipedia.org/wiki/Ophiocordyceps_oecophyllae;;
+Oxyporaceae;;https://ru.wikipedia.org/wiki/Oxyporaceae;;
+Octavianiaceae;;https://ru.wikipedia.org/wiki/Octavianiaceae;;//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wakefieldia_macrospora_53750.jpg/275px-Wakefieldia_macrospora_53750.jpg

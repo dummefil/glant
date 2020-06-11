@@ -1,6 +1,0 @@
-Quekettia vermeuleniana;;https://ru.wikipedia.org/wiki/Quekettia_vermeuleniana;;//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Quekettia_spec_1_-_white_pl.jpg/275px-Quekettia_spec_1_-_white_pl.jpg
-Quercus engelmannii;;https://ru.wikipedia.org/wiki/Quercus_engelmannii;;//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Quercus_englmannii_sillouette.jpg/275px-Quercus_englmannii_sillouette.jpg
-Quercus peninsularis;;https://ru.wikipedia.org/wiki/Quercus_peninsularis;;
-Quercus shangcunensis;;https://ru.wikipedia.org/wiki/Quercus_shangcunensis;;
-Quercus tomentella;;https://ru.wikipedia.org/wiki/Quercus_tomentella;;//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Island_Oak_in_Santa_Rosa_Island.jpg/275px-Island_Oak_in_Santa_Rosa_Island.jpg
-Quisqueya;;https://ru.wikipedia.org/wiki/Quisqueya;;
