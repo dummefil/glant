@@ -32,8 +32,7 @@ router.post('/dict/regenerate/:type', async ctx => {
 })
 
 router.get('/', async (ctx) => {
-  const dicts = ['plants']
-  const data = getEntityFromDict(dicts);
+  const data = getEntityFromDict();
   await ctx.render('index', data);
 })
 
