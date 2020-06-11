@@ -7,6 +7,7 @@ const Pug = require('koa-pug');
 const morgan = require('koa-morgan');
 const koaStatic = require('koa-static');
 const koaRouter = require('@koa/router');
+const greenlock = require('greenlock-express')
 
 const packageJSON = require('./package.json');
 const log4jsConfig = require('./log4js.config.json');
@@ -99,7 +100,28 @@ app.use(koaStatic('static', {}));
 app.use(morgan('combined'));
 app.use(router.routes())
 app.use(router.allowedMethods());
+
 app.listen(port, () => {
   logger.info(`Started ${require('./package.json').name} at`, port);
 });
+
+greenlock
+  .init({
+    packageRoot: __dirname,
+    configDir: "./greenlock.d",
+
+    // contact for security and critical bug notices
+    maintainerEmail: "dimatonkih@gmail.com",
+
+    // whether or not to run at cloudscale
+    cluster: false,
+    agreeTos: true,
+  })
+  // Serves on 80 and 443
+  // Get's SSL certificates magically!
+  .serve((req, res) => {
+    console.log(req);
+    console.log(res);
+    res.send('ok');
+  });
 
