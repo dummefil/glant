@@ -2,7 +2,9 @@ const types = ['plants'];
 
 async function reload() {
   const container = document.querySelector('.plant-container');
-  const response = await fetch(`/generate?types=${types.join(',')}`);
+  const query = getQueryString();
+  const url = `/generate` + query;
+  const response = await fetch(url);
   const body = await response.text();
   container.innerHTML = '';
   container.innerHTML = body;
@@ -29,4 +31,11 @@ function removeType(type) {
 
 function addType(type) {
   types.push(type);
+}
+
+function getQueryString() {
+  if (types.length) {
+    return `?types=${types.join(',')}`;
+  }
+  return '';
 }

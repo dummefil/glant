@@ -37,7 +37,11 @@ router.get('/', async (ctx) => {
 })
 
 router.get('/generate', async ctx => {
-  const dicts = ctx.query.types.split(',');
+  let dicts = ['plants'];
+  if (ctx.query.types) {
+    dicts= ctx.query.types.split(',');
+  }
+
   const data = getEntityFromDict(dicts);
   ctx.body = await pug.render('plant-container', data);
 })
