@@ -52,8 +52,8 @@ function getRandomDirectory(filePath) {
   return list[getRandomIndex(list)];
 }
 
-function getRandomDict(dicts) {
-  if (dicts && !dicts.length) dicts = ['plants'];
+function getRandomDict(dicts = ['plants']) {
+  if (dicts.length) dicts = ['plants'];
   const dictsPath = dicts[getRandomIndex(dicts)];
 
   const letterPath = getRandomDirectory(path.join(config.dictFolder, dictsPath));
