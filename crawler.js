@@ -61,7 +61,6 @@ function Writer (dictName) {
 
 async function startCrawler(dictName, dict, writer) {
   const baseUrl = new URL(dict.url).origin;
-  console.log(baseUrl);
   logger.info('Base url for', dictName, 'is', dict.url);
   let requestedPages = 0;
 

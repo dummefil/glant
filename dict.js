@@ -52,15 +52,16 @@ function getRandomDirectory(filePath) {
   return list[getRandomIndex(list)];
 }
 
-function getRandomDict() {
-  const dictsPath = getRandomDirectory(config.dictFolder);
+function getRandomDict(dicts) {
+  const dictsPath = dicts[getRandomIndex(dicts)];
+
   const letterPath = getRandomDirectory(path.join(config.dictFolder, dictsPath));
   const dict = path.join(config.dictFolder, dictsPath, letterPath);
   return fs.readFileSync(dict);
 }
 
-function getRandomPlant() {
-  const dict = getRandomDict();
+function getEntityFromDict(dicts) {
+  const dict = getRandomDict(dicts);
   const array = dict.toString().split('\n').filter((value) => (value));
   const max = array.length - 1;
   const index = randomInteger(0, max);
@@ -73,7 +74,7 @@ function getRandomPlant() {
 }
 
 module.exports = {
-  getRandomPlant,
+  getEntityFromDict,
   getRandomDict,
   regenerateDict,
   getDicts

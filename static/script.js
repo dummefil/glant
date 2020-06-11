@@ -1,8 +1,32 @@
+const types = ['plants'];
+
 async function reload() {
   const container = document.querySelector('.plant-container');
-  const response = await fetch('/generate');
+  const response = await fetch(`/generate?types=${types.join(',')}`);
   const body = await response.text();
-  console.log(body);
   container.innerHTML = '';
   container.innerHTML = body;
+}
+
+function selectCheckBox(target) {
+  const el = target.querySelector('.checkbox')
+  const selector = 'checkbox-checked';
+  const type = el.getAttribute('data-type');
+  if (el.classList.contains(selector)) {
+    el.classList.remove(selector);
+    return removeType(type);
+  }
+  el.classList.add(selector);
+  return addType(type);
+}
+
+function removeType(type) {
+  const index = types.indexOf(type);
+  if (index > -1) {
+    types.splice(index, 1);
+  }
+}
+
+function addType(type) {
+  types.push(type);
 }

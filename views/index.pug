@@ -1,14 +1,27 @@
 head
-    link(rel="shortcut icon", href='favicon.png')
-    link(rel="stylesheet" href="styles.css")
+    link(rel='shortcut icon', href='favicon.png')
+    link(rel='stylesheet' href='styles.css')
     title Glant
-    script(src="script.js")
+    script(src='script.js')
 body
     .row
         img.logo(src='logo.png')
         .button-wrapper
             img.button-image(src= 'button-image.png')
-            button.button-regenerate(onclick='reload()') Generate
+            button.button-regenerate(onclick='reload()') Randomize
+            .checkboxes-row
+                .checkbox-wrapper(onclick='selectCheckBox(this)')
+                    .checkbox.checkbox-checked(data-type='plants')
+                    .checkbox-label Plant
+                .checkbox-wrapper(onclick='selectCheckBox(this)')
+                    .checkbox(data-type='minerals')
+                    .checkbox-label Mineral
+                .checkbox-wrapper(onclick='selectCheckBox(this)')
+                    .checkbox(data-type='mushrooms')
+                    .checkbox-label Mushroom
+                .checkbox-wrapper(onclick='selectCheckBox(this)')
+                    .checkbox(data-type='insects')
+                    .checkbox-label Insect
     .row
         include plant-container
     div.links

@@ -8,7 +8,7 @@ const koaRouter = require('@koa/router');
 const packageJSON = require('./package.json');
 const log4jsConfig = require('./log4js.config.json');
 
-const { getRandomPlant, regenerateDict } = require('./dict');
+const { getEntityFromDict, regenerateDict } = require('./dict');
 
 log4js.configure(log4jsConfig.config);
 const logger = log4js.getLogger(log4jsConfig.name);
@@ -27,18 +27,21 @@ const router = new koaRouter();
 
 router.post('/dict/regenerate/:type', async ctx => {
   const { type } = ctx.params;
-  console.log(ctx.params);
   regenerateDict(type);
   ctx.status = 200;
 })
 
 router.get('/', async (ctx) => {
-  const data = getRandomPlant();
+  const dicts = ['plants']
+  const data = getEntityFromDict(dicts);
   await ctx.render('index', data);
 })
 
 router.get('/generate', async ctx => {
-  const data = getRandomPlant();
+  console.log(ctx.query);
+  const dicts = ctx.query.types.split(',');
+  console.log(dicts);
+  const data = getEntityFromDict(dicts);
   ctx.body = await pug.render('plant-container', data);
 })
 
